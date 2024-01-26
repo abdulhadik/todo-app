@@ -1,0 +1,23 @@
+.about-Div{
+    width: 600px;
+    background-color:transparent;
+    margin: auto;
+    margin-top: 250px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgb(0, 0, 0);
+
+    
+}
+.about-Div h1{
+    text-align: center;
+    padding-top:10px;
+
+}
+p{
+    text-align: center;
+    color: white;
+    padding-bottom: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 10px;
+    padding-right: 10px;
+}
